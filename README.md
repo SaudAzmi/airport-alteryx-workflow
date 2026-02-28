@@ -79,3 +79,10 @@ Rather than performing a direct join, the workflow follows a structured data eng
 ---
 
 ## 📂 Repository Structure
+airport-alteryx-workflow/
+│
+├── workflow/ → Alteryx workflow (.yxmd)
+├── data/ → Input datasets
+├── output/ → Final enriched dataset (.yxdb)
+├── screenshots/ → Workflow overview
+└── README.md
